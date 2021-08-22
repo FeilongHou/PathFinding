@@ -8,4 +8,4 @@ where start is orange,
       path is teal,\
       blockage is black,\
       invalide path is red,\
-      possible path is green.\
+      possible path is green.
